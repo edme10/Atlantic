@@ -1,1 +1,80 @@
-<mxfile host="app.diagrams.net" modified="2022-05-26T20:02:45.879Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" version="18.1.3" etag="DyiKCdBluHcQPH_BEWfE" type="github"><diagram id="IUSYSUbBcKdLpdM3Azpz">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-05-26T20:46:16.462Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="d7NLcP_bNPQQDWTtKKDo" version="18.1.3" type="github">
+  <diagram id="IUSYSUbBcKdLpdM3Azpz" name="Page-1">
+    <mxGraphModel dx="1727" dy="1973" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="OA_7SekpyGlYD4ccxMZ2-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OA_7SekpyGlYD4ccxMZ2-1" target="OA_7SekpyGlYD4ccxMZ2-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OA_7SekpyGlYD4ccxMZ2-1" value="Usuario final" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="140" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OA_7SekpyGlYD4ccxMZ2-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OA_7SekpyGlYD4ccxMZ2-2" target="OA_7SekpyGlYD4ccxMZ2-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OA_7SekpyGlYD4ccxMZ2-2" value="Usuario final" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="250" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OA_7SekpyGlYD4ccxMZ2-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OA_7SekpyGlYD4ccxMZ2-3" target="OA_7SekpyGlYD4ccxMZ2-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OA_7SekpyGlYD4ccxMZ2-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OA_7SekpyGlYD4ccxMZ2-3" target="OA_7SekpyGlYD4ccxMZ2-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OA_7SekpyGlYD4ccxMZ2-3" value="Web UI&lt;br&gt;Formulario PQR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OA_7SekpyGlYD4ccxMZ2-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OA_7SekpyGlYD4ccxMZ2-6" target="OA_7SekpyGlYD4ccxMZ2-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OA_7SekpyGlYD4ccxMZ2-6" value="&lt;br&gt;Linea de atención&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="600" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OA_7SekpyGlYD4ccxMZ2-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="OA_7SekpyGlYD4ccxMZ2-8" target="OA_7SekpyGlYD4ccxMZ2-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="860" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OA_7SekpyGlYD4ccxMZ2-8" value="Contact center agent" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="780" y="250" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OA_7SekpyGlYD4ccxMZ2-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OA_7SekpyGlYD4ccxMZ2-11" target="OA_7SekpyGlYD4ccxMZ2-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OA_7SekpyGlYD4ccxMZ2-11" value="BD" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="990" y="140" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OA_7SekpyGlYD4ccxMZ2-13" value="&lt;h1&gt;Formulario (Descripción)&lt;/h1&gt;&lt;p&gt;Para contruir una solucion con datos predecibles se debe montar un formulario con opciones pre-configuradas donde el cliente y/o el agente seleccione una opcion el final se debe entregar un campo con no mas de 500 caracteres donde se expone el caso.&lt;/p&gt;&lt;p&gt;Ejemplo:&amp;nbsp; Nombre: (campo custom)&lt;/p&gt;&lt;p&gt;Dirección: (campo custom)&lt;/p&gt;&lt;p&gt;Motivo: opciones.&lt;/p&gt;&lt;p&gt;Pretensión: opciones, (opción otro: custom).&lt;/p&gt;&lt;p&gt;ETC.&lt;/p&gt;&lt;p&gt;De esta manera los datos son predecible y podríamos automatizar todo el proceso de principio fin.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="737.5" y="-360" width="245" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="OA_7SekpyGlYD4ccxMZ2-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OA_7SekpyGlYD4ccxMZ2-15" target="OA_7SekpyGlYD4ccxMZ2-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OA_7SekpyGlYD4ccxMZ2-15" value="Extracción de datos&lt;br&gt;(Atlas Bot), bajar casos" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OA_7SekpyGlYD4ccxMZ2-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OA_7SekpyGlYD4ccxMZ2-17" target="OA_7SekpyGlYD4ccxMZ2-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OA_7SekpyGlYD4ccxMZ2-17" value="BD, Atlas" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="240" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OA_7SekpyGlYD4ccxMZ2-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OA_7SekpyGlYD4ccxMZ2-19" target="OA_7SekpyGlYD4ccxMZ2-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OA_7SekpyGlYD4ccxMZ2-19" value="Microservicio&lt;br&gt;extracción de datos&lt;br&gt;acondicionamiento de datos." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="235" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="OA_7SekpyGlYD4ccxMZ2-23" value="Almacenamiento (S3)&lt;br&gt;Procesamiento de datos (Comprehend)&lt;br&gt;Lambda (Almacenar datos de NLP)&lt;br&gt;almacenamiento (RDS)&lt;br&gt;Lambda (generación de PDF, envía a S3 glaciar, envía a cliente)&lt;br&gt;S3 Glacier (almacenamiento de carta)" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="135" width="520" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="OA_7SekpyGlYD4ccxMZ2-27" value="Ver diagrama de arquitectura para mas detalles" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1950" y="160" width="170" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
